@@ -1,7 +1,7 @@
 {
-  "name": "Student Report Card - Usman Ahmad",
+  "name": "Student Report Card Manager",
   "short_name": "ReportCards",
-  "description": "Comprehensive student report card management system for tracking grades, attendance, and academic performance.",
+  "description": "Comprehensive student report card management system for tracking grades, attendance, and academic performance. Developed by Usman Ahmad.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -84,10 +84,5 @@
       "form_factor": "wide",
       "label": "Desktop view of comprehensive reports"
     }
-  ],
-  "edge_side_panel": {
-    "preferred_width": 400
-  },
-  "permissions": ["storage"],
-  "prefer_related_applications": false
-}
+  ]
+}   
