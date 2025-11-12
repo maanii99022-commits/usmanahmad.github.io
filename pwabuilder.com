@@ -1,6 +1,7 @@
 {
   "name": "USMAN INTRODUCTION",
   "short_name": "Usman web",
+  "description": "View and manage student report cards online, including grades, attendance, and performance details.",
   "start_url": "urlusman.com",
   "display": "standalone",
   "background_color": "#ffffff",
